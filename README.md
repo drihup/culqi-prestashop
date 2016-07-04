@@ -1,1 +1,1 @@
-# culqi-prestashop
+# Culqi Prestashop Module
